@@ -64,8 +64,8 @@ jupyter notebook Types_of_Regression.ipynb</code></pre>
         <li>Analyze model performance using key evaluation metrics.</li>
         <li>Visualize regression results for better insight.</li>
     </ul>
-    <h2 id="author">🧑‍💻 Author</h2>
-    <p><strong>Your Name</strong> – <a href="https://github.com/PavanaAradhya" target="_blank">PavanaAradhya</a></p>
+    <h2 id="author">👩‍💻 Author</h2>
+    <p><strong>Name</strong> – <a href="https://github.com/PavanaAradhya" target="_blank">PavanaAradhya</a></p>
     <h3 id="Thank You">🌟Thank you for checking out this project! Feel free to contribute, and happy coding!🌟</h3>
 
 </body>
