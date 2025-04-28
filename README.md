@@ -4,44 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types of Regression in Machine Learning</title>
-    <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f4f6f8;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #0d6efd;
-        }
-        ul {
-            list-style: none;
-            padding-left: 0;
-        }
-        ul li::before {
-            content: "👉 ";
-        }
-        code {
-            background: #e9ecef;
-            padding: 2px 6px;
-            border-radius: 4px;
-        }
-        a {
-            color: #0d6efd;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        pre {
-            background: #e9ecef;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
 </head>
 
 <body>
