@@ -43,9 +43,9 @@
     <pre><code>pip install numpy pandas matplotlib seaborn scikit-learn</code></pre>
     <h2 id="run">▶️ How to Run</h2>
     <p>Clone this repository:</p>
-    <pre><code>git clone https://github.com/your-username/Types_of_Regression.git</code></pre>
+    <pre><code>git clone https://github.com/your-username/Regression_In_ML.git</code></pre>
     <p>Open the notebook:</p>
-    <pre><code>cd Types_of_Regression
+    <pre><code>cd Regression_In_ML
 jupyter notebook Types_of_Regression.ipynb</code></pre>
     <h2 id="dataset">📈 Dataset Used</h2>
     <p>The notebook utilizes a synthetic or preloaded dataset (based on notebook content), ideal for demonstrating regression concepts.</p>
