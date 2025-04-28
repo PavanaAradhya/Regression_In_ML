@@ -26,5 +26,5 @@ Each regression model is trained on a synthetic dataset and visualized for bette
 
 Install the required libraries using:
 
-```bash
+## bash
 pip install numpy matplotlib scikit-learn
