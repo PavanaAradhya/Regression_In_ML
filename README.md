@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        body {
 </head>
-
 <body>
     <h1>📊 Types of Regression in Machine Learning</h1>
     <p>This repository provides a comprehensive Jupyter Notebook demonstrating various regression techniques using Python and popular machine learning libraries like Scikit-learn, Pandas, Matplotlib, and Seaborn. It is designed to give learners and practitioners a clear understanding of how different regression algorithms perform on data.</p>
@@ -68,8 +66,7 @@ jupyter notebook Types_of_Regression.ipynb</code></pre>
     </ul>
     <h2 id="author">🧑‍💻 Author</h2>
     <p><strong>Your Name</strong> – <a href="https://github.com/PavanaAradhya" target="_blank">PavanaAradhya</a></p>
-    <h2 id="contributing">🌟 Contributing</h2>
-    <p>Contributions, issues, and feature requests are welcome!<br>Feel free to check the issues page.</p>
+    <h2 id="Thank You">🌟 THANK YOU</h2>
 
 </body>
 </html>
