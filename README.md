@@ -66,7 +66,7 @@ jupyter notebook Types_of_Regression.ipynb</code></pre>
     </ul>
     <h2 id="author">🧑‍💻 Author</h2>
     <p><strong>Your Name</strong> – <a href="https://github.com/PavanaAradhya" target="_blank">PavanaAradhya</a></p>
-    <h2 id="Thank You"><marquee>🌟 THANK YOU 🌟</marquee></h2>
+    <h2 id="Thank You">🌟Thank you for checking out this project! Feel free to contribute, and happy coding!🌟</h2>
 
 </body>
 </html>
