@@ -17,7 +17,6 @@
         <li><a href="#metrics">📊 Evaluation Metrics</a></li>
         <li><a href="#outcomes">📚 Learning Outcomes</a></li>
         <li><a href="#author">🧑‍💻 Author</a></li>
-        <li><a href="#contributing">🌟 Contributing</a></li>
     </ul>
     <h2 id="techniques">🧠 Techniques</h2>
     <p>This notebook explores and compares the following regression methods:</p>
